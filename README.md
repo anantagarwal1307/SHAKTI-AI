@@ -19,8 +19,8 @@ It was built by **Team fetchathon3.0-4672** for **Fetch-A-Thon 3.0**, using the 
 
 | What | Link |
 |---|---|
-| 🎥 Full demo video | [Watch the full demo](PASTE_YOUR_DEMO_VIDEO_URL_HERE) |
-| 📊 Presentation (PPT) | [View the PPT](PASTE_YOUR_PPT_URL_HERE) |
+| 🎥 Full demo video | [Watch the full demo](https://drive.google.com/file/d/10HTxELcNqaAIX7TUlQHAjXRzAEeXbJBy/view?usp=sharing) |
+| 📊 Presentation (PPT) | [View the PPT](https://docs.google.com/presentation/d/1y2fl49elhSzJyLcS4tMC06QKRaTPrtEo/edit?usp=sharing&rtpof=true&sd=true) |
 
 ---
 
@@ -254,10 +254,10 @@ SHAKTI AI supports people. It does **not replace** emergency responders, profess
 
 | Name | Role |
 |---|---|
-| **Shashank Ramesh Chandake** | Team Leader |
+| **Shashank Ramesh Chandake** | Team Leader · B.Tech CSE, RIT Roorkee · [GitHub: SHASHANK-RAMESH-CHANDAKE](https://github.com/SHASHANK-RAMESH-CHANDAKE) |
 | **Anant Kumar Agarwal** | Team Member · B.Tech CSE, RIT Roorkee · [GitHub: anantagarwal1307](https://github.com/anantagarwal1307) |
-| **Sarthak Chaurasia** | Team Member |
-| **Saurabh Kumar** | Team Member |
+| **Sarthak Chaurasia** | Team Member · B.Tech CSE, RIT Roorkee · [GitHub: SarthakChaurasia01](https://github.com/SarthakChaurasia01) |
+| **Saurabh Kumar** | Team Member · B.Tech CSE, RIT Roorkee · [GitHub: tech-saurabh2005](https://github.com/tech-saurabh2005) |
 
 ---
 
