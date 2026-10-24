@@ -19,10 +19,8 @@ It was built by **Team fetchathon3.0-4672** for **Fetch-A-Thon 3.0**, using the 
 
 | What | Link |
 |---|---|
-| 🤖 Agentverse agent profile | `[add your Agentverse profile URL]` |
-| 💬 ASI:One shared chat | `[add your ASI:One shared chat URL]` |
-| 🎥 Demo video | `[add your demo video URL]` |
-| 📊 Pitch deck | `[add your pitch deck URL]` |
+| 🎥 Full demo video | [Watch the full demo](PASTE_YOUR_DEMO_VIDEO_URL_HERE) |
+| 📊 Presentation (PPT) | [View the PPT](PASTE_YOUR_PPT_URL_HERE) |
 
 ---
 
